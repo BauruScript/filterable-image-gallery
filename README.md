@@ -1,6 +1,6 @@
 # filterable-image-gallery
 
-[![NPM](https://github.com/BauruScript/filterable-image-gallery/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/BauruScript/filterable-image-gallery/blob/main/LICENSE)
 
 # Sobre o projeto
 
